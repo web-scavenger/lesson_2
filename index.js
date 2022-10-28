@@ -75,5 +75,3 @@ const obj = {
     return 'Hello'
   }
 }
-
-console.log(obj.testFunction())
